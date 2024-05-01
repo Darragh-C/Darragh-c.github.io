@@ -13,10 +13,10 @@
       <li>Report:</li>
       <li>Presentation:</li>
       <li>Demo video:</li>
+      <li>Sprint plan:</li>
       <li>GitHub:
         <p>Note: Access required</p>
       </li>
-      <li>Sprint plan:</li>
     </ul>
   </div>
 </div>
